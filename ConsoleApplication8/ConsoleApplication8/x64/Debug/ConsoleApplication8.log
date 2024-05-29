@@ -1,0 +1,7 @@
+﻿  ConsoleApplication8.cpp
+C:\Users\bersi\source\repos\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(42,60): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  ConsoleApplication8.vcxproj -> C:\Users\bersi\source\repos\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
